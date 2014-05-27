@@ -24,11 +24,11 @@ class MainController < UIViewController
   end
 
   def nav_left_button
-    puts 'Left button'
+    puts 'Open in another...'
   end
 
   def nav_right_button
-    puts 'Right button'
+    puts 'Refresh button'
   end
 
   # Remove if you are only supporting portrait
